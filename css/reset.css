@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+/* 모든 문서 시작시 스타일 초기화 */
+* {
+	margin: 0;
+	padding: 0	
+}
